@@ -1,0 +1,22 @@
+.hero {
+    height: 100vh;
+    background-image: url('https://via.placeholder.com/1920x1080');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+    color: white;
+  }
+  
+  .cta-button {
+    background-color: #ff6347;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  

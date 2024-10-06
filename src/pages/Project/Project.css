@@ -1,0 +1,18 @@
+.projects-section {
+    padding: 60px 20px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .project-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  
